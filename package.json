@@ -1,0 +1,25 @@
+{
+  "author": "Ben Booth <benwbooth@gmail.com>",
+  "name": "jim",
+  "description": "web-based text editor",
+  "version": "0.1.0",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": "~v0.4.8"
+  },
+  "dependencies": {
+    "coffee-script": "1.1.1",
+    "jquery": "1.5.1",
+    "underscore": "1.1.6",
+    "jsdom": "0.2.0",
+    "domjs": "0.1.0",
+    "http-status": "0.1.0",
+    "stitch": "0.3.2",
+    "optimist": "0.2.4",
+    "markdown": "0.2.1",
+    "reparse": "0.1.2",
+  },
+  "devDependencies": {}
+}
