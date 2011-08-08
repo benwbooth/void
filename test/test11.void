@@ -1,0 +1,13 @@
+  a b c """
+
+    This is an indented quote
+      Still indented
+        Still indented
+
+  d e f '''
+
+
+    Here's an indented quote
+      Still indented
+        Still indented
+    Still indented
